@@ -6,8 +6,7 @@
 * Establish a monitoring and alerting system for production
 ## Stories
 * [As a developer, I want to use DevOps practices to improve the efficiency of our development process.](stories/story_DevOps.md)
-##Test Plan
-# Test Plan for DevOps Monitoring and Logging
+# Test Plan
 
 ## Objective
 The objective of this test plan is to ensure that the DevOps Monitoring and Logging system is working as expected and facilitating the lean management practice of build measure, lean so we can focus on product development using a pull process rather than a push process for feature development.

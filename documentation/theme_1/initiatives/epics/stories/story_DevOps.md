@@ -6,9 +6,7 @@
 * [Define and automate testing processes for efficient development](tasks/task_auto_testing.md)
 * [Implement infrastructure as code using tools such as Terraform](tasks/task_infrastructure_as_code.md)
 * [Set up a monitoring and alerting system for production environments](tasks/task_set_up_monitering_and_alerting.md)
-##Test Plan
-# Test Plan for DevOps Practices
-
+# Test Plan
 ## Introduction
 The purpose of this test plan is to ensure that the DevOps practices implemented are efficient and facilitate the lean management practice of build measure, lean, so we can focus on product development using a pull process rather than a push process for feature development.
 

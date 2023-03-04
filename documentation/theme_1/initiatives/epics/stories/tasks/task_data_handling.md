@@ -1,7 +1,6 @@
 # Task: Ensure all data handling processes are GDPR compliant
 ## Description: Our goal is to ensure our data handling processes done on our website is compliant with GDPR guidelines.
-##Test Plan
-Ensure GDPR Compliance for Data Handling Processes
+# Test Plan
 
 ## Objective:
 The objective of this test plan is to ensure that all data handling processes are GDPR compliant to protect user privacy and meet legal requirements.

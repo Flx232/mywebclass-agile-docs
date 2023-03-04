@@ -1,7 +1,6 @@
 # Task: Create a privacy policy page that explains data handling and user rights (GDPR)
 ## Description: The goal is to create a privacy policy page that explains the user's rights to their data to satisfy GDPR
-##Test Plan
-# Test Plan: Create a privacy policy page that explains data handling and user rights (GDPR)
+# Test Plan
 
 ## Objective:
 To ensure that the privacy policy page is created and meets GDPR requirements for data handling and user rights.

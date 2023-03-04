@@ -3,7 +3,7 @@
 ## Epics
 * [GDPR Compliance](../../theme_1/initiatives/epics/epic_GDPR_compliance.md)
 
-#Test Plan
+# Test Plan
 ## Objective
 The objective of this test plan is to ensure that the product is compliant with GDPR regulations and has proper measures in place to protect user data and privacy.
 

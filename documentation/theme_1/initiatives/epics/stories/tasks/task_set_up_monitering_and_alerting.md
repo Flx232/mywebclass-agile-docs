@@ -1,7 +1,6 @@
 # Task: Set up a monitoring and alerting system for production environments
 ## Description: The goal is to set up a monitoring and alerting system for ease of website development
-##Test Plan
-# Test Plan: Set up a monitoring and alerting system for production environments
+# Test Plan
 
 ## Objective
 The objective of this test plan is to ensure that a monitoring and alerting system is set up for production environments to detect and alert on any potential issues or incidents. This will facilitate the lean management practice of build measure, learn so that we can focus on product development using a pull process rather than a push process for feature development.

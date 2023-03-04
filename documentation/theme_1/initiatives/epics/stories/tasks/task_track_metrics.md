@@ -1,7 +1,6 @@
  # Task: Define and track relevant metrics for user behavior in Google Analytics.
 ## Description: The goal is to gather relevant data of our users using Google Analytics
-##Test Plan
-# Test Plan: Define and Track Relevant Metrics for User Behavior in Google Analytics
+# Test Plan
 
 ## Goal
 The goal of this test plan is to ensure that relevant metrics for user behavior are defined and tracked in Google Analytics, in order to facilitate the lean management practice of build measure, learn.

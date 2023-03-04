@@ -1,7 +1,6 @@
 # Task: Set up CI/CD pipelines for automated testing and deployment
 ## Description: Our goal is to set up a CI/CD pipeline for automated testing and deployment for our website.
-##Test Plan
-# Test Plan for Setting up CI/CD Pipelines for Automated Testing and Deployment
+# Test Plan
 
 ## Objectives
 - To automate the testing and deployment processes to increase efficiency and reduce manual errors.

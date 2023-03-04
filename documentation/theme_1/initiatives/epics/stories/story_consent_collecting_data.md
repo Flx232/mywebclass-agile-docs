@@ -4,8 +4,7 @@
 * [Create a privacy policy page that explains data handling and user rights (GDPR)](tasks/task_privacy_policy.md)
 * [Ensure all data handling processes are GDPR compliant](tasks/task_data_handling.md)
 * [Implement user consent options for data handling (GDPR)](tasks/task_user_consent.md)
-##Test Plan
-# Test Plan: Understand how data is being handled and have control over it
+# Test Plan
 
 ## Goals
 - Ensure that users can easily access and understand how their data is being handled by the system.

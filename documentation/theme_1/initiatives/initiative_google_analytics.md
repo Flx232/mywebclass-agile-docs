@@ -3,7 +3,7 @@
 ## Epics
 * [User Behavior Analysis](../../theme_1/initiatives/epics/epic_user_behavior_analysis.md)
 
-#Test Plan
+# Test Plan
 ## Objective
 The objective of this test plan is to ensure that we can effectively use Google Analytics to analyze user behavior on our product, in order to inform product development decisions and facilitate a pull process for feature development.
 

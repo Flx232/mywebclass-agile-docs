@@ -1,9 +1,7 @@
 # Task: Set up version control system (e.g. Git)
 ## Description: The goal is to set up a version control system to document and control changes to our website.
 ##Test Plan
-# Test Plan: 
-# Test Plan: Set up version control system (e.g. Git)
-
+# Test Plan:
 ## Objective
 The objective of this test plan is to ensure that the version control system is set up properly and that it facilitates efficient and effective product development using a pull process rather than a push process for feature development.
 

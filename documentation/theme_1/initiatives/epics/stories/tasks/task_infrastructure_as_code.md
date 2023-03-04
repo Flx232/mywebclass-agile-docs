@@ -1,7 +1,6 @@
 # Task: Implement infrastructure as code using tools such as Terraform
 ## Description: Our goal is to implement infrastructure as code for ease of development of our website.
-##Test Plan
-# Test Plan: Implement Infrastructure as Code using Terraform
+# Test Plan
 
 ## Objective
 The objective of this test plan is to ensure that the infrastructure as code using Terraform is implemented correctly to facilitate the lean management practice of build measure, lean so that we can focus on product development using a pull process rather than a push process for feature development.

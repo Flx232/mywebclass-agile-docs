@@ -1,7 +1,6 @@
 # Task: Set up Google Analytics on the website.
 ## Description: The goal is to set up Google Analytics on our website to gather information.
-##Test Plan
-# Test Plan: Setting up Google Analytics on the website
+# Test Plan
 
 ## Objective:
 To set up Google Analytics on the website to track user behavior and gather insights to facilitate the lean management practice of build-measure-learn.

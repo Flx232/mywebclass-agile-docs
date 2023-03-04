@@ -1,6 +1,6 @@
 # Task: Implement user consent options for data handling (GDPR).
 ## Description: The goal is to have our website give users options to how they want their data to be handled
-##Test Plan
+# Test Plan
 ## Objective
 The objective of this test plan is to ensure that the implementation of user consent options for data handling (GDPR) is functioning as intended and is compliant with GDPR regulations.
 

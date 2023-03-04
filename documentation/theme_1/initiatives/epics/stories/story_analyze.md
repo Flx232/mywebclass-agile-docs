@@ -4,8 +4,7 @@
 * [Set up Google Analytics on the website](tasks/task_setup_google_analytics.md)
 * [Define and track relevant metrics for user behavior in Google Analytics](tasks/task_track_metrics.md)
 * [Integrate Google Analytics data into product development decisions](tasks/task_integration.md)
-##Test Plan
-# Test Plan: Analyze User Behavior to Inform Product Development Decisions
+# Test Plan
 
 ## Objective
 The objective of this test plan is to ensure that user behavior is effectively analyzed to inform product development decisions. This will be achieved through the following steps:

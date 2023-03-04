@@ -1,7 +1,6 @@
 # Task: Define and automate testing processes for efficient development
 ## Description: Our goal is create automated testing process so we can efficiently update our website.
-##Test Plan
-# Test Plan: Define and Automate Testing Processes for Efficient Development
+# Test Plan
 
 ## Objective
 

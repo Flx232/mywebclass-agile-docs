@@ -6,7 +6,7 @@
 ## Stories
 * [As a user, I want to understand how my data is being handled and have control over it.](stories/story_consent_collecting_data.md)
 
-#Test Plan
+# Test Plan
 ## Objective:
 The objective of this test plan is to ensure that the product development process adheres to GDPR compliance requirements, and the lean management principles of build, measure, and learn.
 

@@ -1,7 +1,6 @@
 # Task: Integrate Google Analytics data into product development decisions.
 ## Description: The goal is use Google Analytics to gather information so we can know what pull requests our audience wants.
-##Test Plan
-# Test Plan: Integrate Google Analytics data into product development decisions
+# Test Plan
 
 ## Objective
 To ensure that Google Analytics data is integrated effectively into the product development process and used to make data-driven decisions, in order to facilitate the lean management practice of build measure learn.
